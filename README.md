@@ -25,5 +25,5 @@ I'm currently looking forward to grabing more expertise in the field of financia
 * Email: [iqbalrhidwan52@gmail.com](mailto:iqbalrhidwan52@gmail.com?subject=Nice%20Meeting%20You,%20Iqbal!)
 * Twitter: [@iqbalrhidwan52](https://twitter.com/iqbalrhidwan52)
 * LinkedIn: [@rhidwan](https://www.linkedin.com/in/rhidwan/)
-* Facebook: [@iqbalrhidwan52][https://www.facebook.com/iqbalrhidwan52]
+* Facebook: [@iqbalrhidwan52](https://www.facebook.com/iqbalrhidwan52)
 
