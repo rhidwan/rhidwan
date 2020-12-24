@@ -4,7 +4,7 @@
   <p style="margin-top:0" align="center">Programmer | Engineering Student </p>
 </p>
 
-**Greetings!**
+:wave: **Greetings!** :wave:
 
 I’m mainly a **Python** developer from Bangladesh. I write computer programs that **automate real-world tasks** using Python and save a *lot of time, money, & headaches for businesses*. I also build **web applications** using **Django** as a solution to various business needs. I also code some front-end *(Not a great designer)* Using **React, Redux** . I also build bots for various messaging platform using **python, nodejs**.
 
@@ -21,7 +21,7 @@ I am currently working as a **freelance Programmer** delivering my service throu
 I'm currently looking forward to grabing more expertise in the field of financial Trading, Machine Learning Automation, Advance botting and learning new technologies. It's fun.
 
 ---
-📫 To Reach Me:
+To Reach Me:
 * Email: [iqbalrhidwan52@gmail.com](mailto:iqbalrhidwan52@gmail.com?subject=Nice%20Meeting%20You,%20Iqbal!)
 * Twitter: [@iqbalrhidwan52](https://twitter.com/iqbalrhidwan52)
 * LinkedIn: [@rhidwan](https://www.linkedin.com/in/rhidwan/)
