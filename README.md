@@ -12,7 +12,7 @@ My skills also extend to IoT Electronics projects using **Arduino and NodeMCU**.
  
 I’m extremely friendly (yet professional) with an excellent communication skill in English.
  
-I am an **Electrical Engineering** completed my BSc. Engg degree in **Electrical and Electronic Engineering** here from **University of Chittagong**. 
+I am an **Electrical Engineer** completed my BSc. Engg degree in **Electrical and Electronic Engineering** here from **University of Chittagong**. 
  
 ---
 I am currently working as a **freelance Programmer** delivering my service through **Fiverr**(Freelance marketplace) from the beginning of 2019. I started learning programming in 2016. After completing dozens of courses from coursera and many different online platforms, I started providing my service to my clients.
