@@ -1,12 +1,12 @@
 <p align="center">
 <!--   <img align="center" width="100" src='https://res.cloudinary.com/iqbalrhidwan/image/upload/ar_1:1,b_rgb:ffffff,bo_0px_solid_rgb:ff0000,c_fill,g_auto,r_max,w_1000/v1608792063/IMG_20200102_114525_qlghpr.jpg'/> -->
   <h2 align="center" style="margin-top:0; margin-bottom:0">Iqbal Mohammad Rhidwan</h2>
-  <p style="margin-top:0" align="center">Programmer | Engineering Student </p>
+  <p style="margin-top:0" align="center">Full Stack Web Developer | Electrical Engineer </p>
 </p>
 
 :wave: **Greetings!** :wave:
 
-I’m a **Passionate Web** developer from Bangladesh. I write computer programs that **automate real-world tasks** using Python and save a *lot of time, money, & headaches for businesses*. I build **web applications** using **Django**, **NodeJS** as a solution to various business needs. I also code some front-end *(Not a great designer)* Using **React, NextJS** . I also build bots for various messaging platform using **python, nodejs**.
+I’m a **Passionate Full Stack Web** developer from Bangladesh. I write computer programs that **automate real-world tasks** using Python and save a *lot of time, money, & headaches for businesses*. I build **web applications** using **Django**, **NodeJS** as a solution to various business needs. I also code some front-end *(Not a great designer)* Using **React, NextJS** . I also build bots for various messaging platform using **python, nodejs**.
 
 My skills also extend to IoT Electronics projects using **Arduino and NodeMCU**. I also build web interfaces for IoT projects using **MQTT, HTTP** protocol.
  
